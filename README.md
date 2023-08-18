@@ -27,3 +27,24 @@ ans = [item for list in list1 for item in list]
 
 
 refer: [1](https://www.bmabk.com/index.php/post/87444.html)
+
+
+### 4. Pytorch-Lightening 
+
+使用模板[参考1](https://zhuanlan.zhihu.com/p/556040754), [参考2](https://zhuanlan.zhihu.com/p/459701671)
+
+torchmetrics[文档](https://torchmetrics.readthedocs.io/en/stable/classification/accuracy.html)
+
+[torchmetrics in Pytorch-Lightening](https://torchmetrics.readthedocs.io/en/stable/pages/lightning.html)
+
+
+### Pandas 数据读取
+
+参考： [1](https://blog.csdn.net/sinat_26811377/article/details/103124749)
+
+
+### WeightedRandomSampler 处理不平衡集
+
+[Sampler](https://pytorch.org/docs/stable/data.html), [WeightedRandomSampler理解](https://blog.csdn.net/tyfwin/article/details/108435756), [方法](http://spytensor.com/index.php/archives/45/)
+
+
