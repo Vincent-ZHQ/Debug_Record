@@ -65,7 +65,11 @@ ls -lR| grep "^-" | wc -l
 ls -lR | grep "^d" | wc -l
 ```
 
-
-
 参考：[linux批量删除目录下的文件夹而不删除文件](https://blog.csdn.net/HaoZiHuang/article/details/123585312)
 [统计文件夹下的文件数目](https://noahsnail.com/2017/02/07/2017-02-07-Linux%E7%BB%9F%E8%AE%A1%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E6%95%B0%E7%9B%AE/)
+
+
+
+## ffmpeg install problems
+
+https://codeantenna.com/a/P7NmFC4N8N
