@@ -63,6 +63,10 @@ ls -lR| grep "^-" | wc -l
 
 # 查看某目录下文件夹(目录)的个数（包括子目录）
 ls -lR | grep "^d" | wc -l
+
+# 查看存储空间使用情况
+du -h -d 1
+
 ```
 
 参考：[linux批量删除目录下的文件夹而不删除文件](https://blog.csdn.net/HaoZiHuang/article/details/123585312)
@@ -72,4 +76,26 @@ ls -lR | grep "^d" | wc -l
 
 ## ffmpeg install problems
 
+```
+conda install x264=='1!152.20180717' ffmpeg=4.0.2 -c conda-forge
+
+conda install -c conda-forge x264=='1!161.3030' ffmpeg=4.3.2
+```
+
+## conda commands
+```
+# 创建新环境
+conda create -n name python==version
+
+# 清理不必要的库包表文件
+conda clean -a
+
+
+```
+
+
 https://codeantenna.com/a/P7NmFC4N8N
+
+
+
+
