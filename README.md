@@ -93,8 +93,15 @@ conda clean -a
 
 ```
 
-
 https://codeantenna.com/a/P7NmFC4N8N
+
+## CAM and heatmap
+
+[Pytorch可视化神经网络热力图(CAM)](https://blog.csdn.net/sinat_37532065/article/details/103362517)
+[请问注意力机制中生成的类似热力图或者柱状图是如何生成的？](https://www.zhihu.com/question/274926848)
+[Python画attention map与原图叠加的热力图](https://zhuanlan.zhihu.com/p/89095411)
+[深度学习之如何使用Grad-CAM绘制自己的特征提取图](https://developer.aliyun.com/article/1098275)
+[Visualization Method Corresponding to Regression Problems and Its Application to Deep Learning-Based Gaze Estimation Model](https://www.jstage.jst.go.jp/article/jaciii/24/5/24_676/_pdf)
 
 
 
